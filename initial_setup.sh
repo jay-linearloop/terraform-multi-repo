@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Function to check if a command exists
+# Function to check if a command existsddddd
 check_command() {
   command -v "$1" &> /dev/null
 }
